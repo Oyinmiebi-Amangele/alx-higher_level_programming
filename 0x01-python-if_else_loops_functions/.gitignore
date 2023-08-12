@@ -1,2 +1,3 @@
 # ignore main files
 main.py
+__pycache__
