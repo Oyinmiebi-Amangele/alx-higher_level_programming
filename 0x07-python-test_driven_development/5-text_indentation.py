@@ -33,4 +33,4 @@ def text_indentation(text):
             i = i.strip(" ")
             s = i + d if s is "" else s + "\n\n" + i + d
 
-    print(s[:-], end="")
+    print(s[:-3], end="")
